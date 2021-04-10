@@ -1,0 +1,51 @@
+body{
+    padding:100px;
+
+
+}
+
+.submit-area{
+    margin-top: 50px;
+    padding:40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    
+}
+
+
+#transiction-area{
+    display: none;
+
+}
+
+.diposit{
+    background-color:slateblue;
+
+}
+
+.withdraw{
+    background-color:seagreen;
+}
+
+.balance{
+    background-color:orange;
+}
+
+.status{
+    margin: 0px 20px;
+    text-align: center;
+    color:white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+input {
+    width: 300px;
+    padding: 0 20px;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 10px;
+    line-height: 3;
+}
